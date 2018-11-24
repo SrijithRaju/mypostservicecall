@@ -1,19 +1,18 @@
 {"mydata":[{
-  public usR_RFID:'';
-  public usR_STS='';
-public chG_ID='';
+   "usR_RFID":'',
+  " usR_STS"='',
+"chG_ID='',
 
-  public usR_ID: number;
-  public usR_NAME='';
-  public depT_ID= '';
-  public orG_ID= '';
-  public rolE_ID='';
-  public usR_EMAIL='';
-  public usR_MOBILE:number;
-public ReviewedBy='Test Reviewed BY';
-public ReviewedOn='Test Reviewed BY';
+ "usR_ID": "number",
+"usR_NAME"='',
+"depT_ID"= '',
+  "orG_ID"= '';
+"rolE_ID"='';
+  "usR_EMAIL"='';
+ "usR_MOBILE":number;
+"ReviewedBy"='Test Reviewed BY';
+"ReviewedOn"='Test Reviewed BY';
 
-public usR_EFF='';
-public usR_EXP='';
-public CreatedOn='';
-public CreatedBy='';}]}
+"usR_EFF"='';
+"usR_EXP"='';
+" CreatedOn"='', "CreatedBy"='';}]}
