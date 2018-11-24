@@ -1,7 +1,7 @@
 {"mydata":[{
    "usR_RFID":'',
   " usR_STS"='',
-"chG_ID='',
+"chG_ID"='',
 
  "usR_ID": "number",
 "usR_NAME"='',
@@ -10,8 +10,6 @@
 "rolE_ID"='',
   "usR_EMAIL"='',
  "usR_MOBILE":number,
-"ReviewedBy"='Test Reviewed BY',
-"ReviewedOn"='Test Reviewed BY',
 
 "usR_EFF"='',
 "usR_EXP"=''}]}
