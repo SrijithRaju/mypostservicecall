@@ -6,13 +6,12 @@
  "usR_ID": "number",
 "usR_NAME"='',
 "depT_ID"= '',
-  "orG_ID"= '';
-"rolE_ID"='';
-  "usR_EMAIL"='';
- "usR_MOBILE":number;
-"ReviewedBy"='Test Reviewed BY';
-"ReviewedOn"='Test Reviewed BY';
+  "orG_ID"= '',
+"rolE_ID"='',
+  "usR_EMAIL"='',
+ "usR_MOBILE":number,
+"ReviewedBy"='Test Reviewed BY',
+"ReviewedOn"='Test Reviewed BY',
 
-"usR_EFF"='';
-"usR_EXP"='';
-" CreatedOn"='', "CreatedBy"='';}]}
+"usR_EFF"='',
+"usR_EXP"=''}]}
