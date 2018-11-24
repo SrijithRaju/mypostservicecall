@@ -1,0 +1,19 @@
+{"mydata":[{
+  public usR_RFID:'';
+  public usR_STS='';
+public chG_ID='';
+
+  public usR_ID: number;
+  public usR_NAME='';
+  public depT_ID= '';
+  public orG_ID= '';
+  public rolE_ID='';
+  public usR_EMAIL='';
+  public usR_MOBILE:number;
+public ReviewedBy='Test Reviewed BY';
+public ReviewedOn='Test Reviewed BY';
+
+public usR_EFF='';
+public usR_EXP='';
+public CreatedOn='';
+public CreatedBy='';}]}
