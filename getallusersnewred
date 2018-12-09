@@ -1,20 +1,4 @@
-[{
-	"usR_RFID": "P20180712161611123175000123175000",
-	"usR_ID": "s0002",
-	"usR_NAME": "usertwo",
-	"usR_EMAIL": "usertwo@gmail.com",
-	"usR_MOBILE": "23265585",
-	"depT_ID": "IT",
-	"rolE_ID": "System Admin",
-	"usR_EFF": "2018-12-31",
-	"usR_EXP": "2018-12-19",
-	"usR_STS": "A",
-	"approvaL_STS": "A",
-	"orG_ID": "System",
-	"chG_ID": "C20180712161611121533000121533000",
-	"cacT_BY": "usertwo",
-	"cacT_AT": "2018-12-07T16:16:11"
-}, {
+[ {
 	"usR_RFID": "P20180712144107409393000409393000",
 	"usR_ID": "s0001",
 	"usR_NAME": "userone_7dec2018",
