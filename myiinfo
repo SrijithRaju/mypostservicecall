@@ -1,0 +1,16 @@
+{
+  "message": null,
+  "didError": false,
+  "errorMessage": null,
+  "model": {
+    "stateId": "e79b61a7-13e5-4c6f-952a-59442cc8db92",
+    "packageId": "2000",
+    "referenceNo": "Ref-e79b61a7-13e",
+    "packageName": "CARLOAN",
+    "appId": "STG-201804195C-MBB-CARLOAN",
+    "clientID": "STG-201804195C-MBB-CARLOAN",
+    "clientSecret": "Qe4TuxjbJdeIWSaRNCDS9FXHNB91lzld",
+    "scope": " NRIC/FIN\r\n,Principal Name\r\n,Alias Name\r\n,Hanyu Pinyin Name\r\n,Hanyu Pinyin Alias Name\r\n,Married Name\r\n,Sex\r\n,Date of Birth\r\n,Residential Status\r\n,Nationality\r\n,Country of Birth\r\n,Passport Number\r\n,Passport Expiry Date\r\n,Pass Type\r\n,Pass Status\r\n,Pass Expiry Date\r\n,Employment Sector\r\n,Mobile Number\r\n,Home Contact Number\r\n,Email Address\r\n,Registered Address\r\n,Type of Housing\r\n,Mailing Address\r\n,CPF Contribution History (up to 15 months)\r\n,Notice of Assessment (Detailed, Last 2 Years)\r\n,Name of Employer\r\n,Occupation\r\n,Highest Education Level\r\n,Marital Status",
+    "returnURL": "https://applyuat.mbeb.com.sg/myInfoPackage/index.aspx"
+  }
+}
